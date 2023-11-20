@@ -28,9 +28,11 @@
 
 Все возможные видео на ютубе
 
-В основе смотрел плейлист https://www.youtube.com/watch?si=PxAEqxTqGn_UdGZ1&v=XgIDH42RHWQ&feature=youtu.be
-ХП -> https://www.youtube.com/watch?v=kZVIa2uWOiM
-создание персонажа и его движений -> плейлист https://www.youtube.com/watch?v=TuJtz3Mqxsk&list=PL-jhyBQNFD45anyATNhx2kREaK9QbdF9U&index=2
+- В основе смотрел плейлист https://www.youtube.com/watch?si=PxAEqxTqGn_UdGZ1&v=XgIDH42RHWQ&feature=youtu.be
+
+- ХП -> https://www.youtube.com/watch?v=kZVIa2uWOiM
+
+- Cоздание персонажа и его движений -> плейлист https://www.youtube.com/watch?v=TuJtz3Mqxsk&list=PL-jhyBQNFD45anyATNhx2kREaK9QbdF9U&index=2
 
 ## Пример игры 
 
